@@ -1,1 +1,3 @@
-yhydsdifbiadbf
+hoje é terça-feira
+Estudando comendos em git
+no vscode
